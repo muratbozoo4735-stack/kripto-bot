@@ -6,8 +6,8 @@ import ta
 import asyncio
 from telegram import Bot
 
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-CHAT_ID = os.environ.get("CHAT_ID")
+TELEGRAM_TOKEN = os.environ.get("8121429617:AAFABDYLLs313VMIgmHLEWNRczweFgNhPBs")
+CHAT_ID = os.environ.get("1125370388")
 
 # Likiditesi yüksek, tahtası sağlam ana coinler
 SYMBOLS = ["BTCUSDT", "ETHUSDT", "SOLUSDT", "AVAXUSDT"]
